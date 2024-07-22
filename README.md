@@ -2,7 +2,7 @@
 
 
 #RUS
-1. Скачайте Resource Override из магазина расширений https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii?pli=1.
+1. Скачайте Resource Override из магазина расширений https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii.
 2. Скачайте JSON файл.
 3. Зайдите на сайт hamsterkombatgame.io.
 4. Зайдите в меню расширения.
@@ -12,7 +12,7 @@
 
 
 #ENG
-1. Download Resource Override from the extension store https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpiffamojphii?pli=1.
+1. Download Resource Override from the extension store https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpiffamojphii.
 2. Download the JSON file.
 3. Go to hamsterkombatgame.io.
 4. Go to the extension menu.
